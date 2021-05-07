@@ -24,3 +24,5 @@ O JavaScript te permite dar dinamismos às páginas. É ele quem garante que sua
 #5 Muitas opções de bibliotecas e frameworks que vão maximizar sua produtividade.
 
 #6 É multi plataforma.
+
+#7 Porque vou ter uma boa oportunidade de emprego.
